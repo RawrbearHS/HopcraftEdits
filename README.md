@@ -1,3 +1,3 @@
 # Hopcraft Edits
 
-A Minecraft resource pack with a few edits for the Hopscotch community.
+A Minecraft resource pack that adds various edits, which reference the Hopscotch community.
